@@ -1,0 +1,6 @@
+streamlit>=1.0
+pandas
+requests
+python-dotenv
+pytest
+pytest-cov
